@@ -301,53 +301,7 @@ If the demonstration is not live, then you forfeit that evaluation component.
 
 ----
 
-# 3 Use of Artificial Intelligence
-
-The Técnico [_Use of AI Guidelines_](https://tecnico.ulisboa.pt/en/news/campus-community/tecnico-apresenta-guia-para-a-utilizacao-responsavel-da-inteligencia-artificial/) defines levels of use.
-For this project, they are:
-
-- proposal and report - level 1 - yellow;
-- code - level 2 - green.
-
-## 3.1 Proposal and Report
-
-**Level 1 (Yellow) – Limited Use with Declaration Including Purpose of Use**
-
-_At this level, the use of AI tools is permitted for tasks within an assessment component, such as idea generation, topic organization, brainstorming, language revision, structural suggestions, summarization, among others. Any generated content included in the final work must be reviewed and edited; therefore, a Declaration of Use and its purpose is required, including, if requested by instructors, the prompts used._
-
-_The pedagogical objective is to foster the critical and ethical use of AI, encouraging students to take ownership of the creative process as well as the validation of content and bibliography in problem-solving tasks, thematic reviews, etc. This may include Laboratory Reports, Dissertations or Theses, PIC course unit reports, computational assignments, among others._
-
-Declaration of Use Template:
-
-> “All decisions and technical content in this work are my own.
-> [List tools] were used for [functions].”
-
-Example:
-
-> “All decisions and technical content in this work are my own. OpenAI’s ChatGPT (2025) [[https://chat.openai.com](https://chat.openai.com)] was used to generate the table of contents of this work.”
-
-## 3.2 Code
-
-**Level 2 (Green) – Fully Permitted Use with Declaration**
-
-_In this case, the use of AI tools is unrestricted and encouraged throughout the project/work. Students may use AI to generate, review, and complete content, provided they meet the assessment objectives. AI is understood as a collaborative tool, and its use must be declared._
-
-_The pedagogical objective is to promote technological literacy and to develop the ability to integrate advanced AI tools into the planning and execution of engineering processes, innovation, and the resolution of complex or open-ended problems._
-
-Declaration of Use Template:
-
-> “AI tools were integrated into the development of the project and the preparation of its report. The following tools were used: [list tools].”
-
-Example:
-
-> “AI tools were integrated into the development of the project and the preparation of its report. The following were used:
->
-> * OpenAI. (2025). ChatGPT [Large language model]. [https://chat.openai.com](https://chat.openai.com)
-> * GitHub. (2025). GitHub Copilot [AI coding assistant]. [https://github.com/features/copilot”](https://github.com/features/copilot”)
-
-----
-
-# 4 Calendar
+# 3 Calendar
 
 The relevant dates for the project are shown in the following calendar (all dates are in **2026**).
 
@@ -366,16 +320,75 @@ The relevant dates for the project are shown in the following calendar (all date
 | Confirm presentation session | Until Friday, March 27th. Contact faculty if you have any issue with the schedule |
 | Present and defend           | Sessions on Tuesday, March 31st. Submit presentation and media on the same day, until 20:00 |
 
-## 4.1 Updates
+## 3.1 Updates
 
 IMPORTANT: keep track of the course [web site](https://fenix.tecnico.ulisboa.pt/disciplinas/AI3610/2025-2026/2-semestre) for announcements.
 
 If there are changes to this document, they can be consulted in the _Git Commit History_.
 
-## 4.2 Final words
+## 3.2 Use of Artificial Intelligence
+
+The Técnico [_Use of AI Guidelines_](https://tecnico.ulisboa.pt/en/news/campus-community/tecnico-apresenta-guia-para-a-utilizacao-responsavel-da-inteligencia-artificial/) defines levels of use.
+For this project, they are:
+
+- proposal and report - level 1 - yellow;
+- code - level 2 - green.
+
+### 3.2.1 Use of AI in proposal and report
+
+<!--
+**Level 0 (Red) – Prohibited Use**
+
+At this level, the use of any AI tool is expressly prohibited at any stage of an assessment component, such as written or oral exams or the demonstration of a laboratory experiment. Students must complete the assessed work solely on the basis of their own knowledge and skills.
+
+The corresponding pedagogical objective is to strengthen individual competencies in order to promote intellectual autonomy and technological independence.
+
+Declaration of Use Template:
+
+> “I declare that this assessment component was completed entirely without the use of any AI tools.”
+-->
+
+**Level 1 (Yellow) – Limited Use with Declaration Including Purpose of Use**
+
+_At this level, the use of AI tools is permitted for tasks within an assessment component, such as idea generation, topic organization, brainstorming, language revision, structural suggestions, summarization, among others. Any generated content included in the final work must be reviewed and edited; therefore, a Declaration of Use and its purpose is required, including, if requested by instructors, the prompts used._
+
+_The pedagogical objective is to foster the critical and ethical use of AI, encouraging students to take ownership of the creative process as well as the validation of content and bibliography in problem-solving tasks, thematic reviews, etc. This may include Laboratory Reports, Dissertations or Theses, PIC course unit reports, computational assignments, among others._
+
+Declaration of Use Template:
+
+> “All decisions and technical content in this work are my own.
+> [List tools] were used for [functions].”
+
+Example:
+
+> “All decisions and technical content in this work are my own. 
+> OpenAI’s ChatGPT (2025) [[https://chat.openai.com](https://chat.openai.com)] was used to generate the table of contents of this work.”
+
+### 3.2.2 Use of AI in code
+
+**Level 2 (Green) – Fully Permitted Use with Declaration**
+
+_In this case, the use of AI tools is unrestricted and encouraged throughout the project/work. Students may use AI to generate, review, and complete content, provided they meet the assessment objectives. AI is understood as a collaborative tool, and its use must be declared._
+
+_The pedagogical objective is to promote technological literacy and to develop the ability to integrate advanced AI tools into the planning and execution of engineering processes, innovation, and the resolution of complex or open-ended problems._
+
+Declaration of Use Template:
+
+> “AI tools were integrated into the development of the project. The following tools were used: [list tools].”
+
+Example:
+
+> “AI tools were integrated into the development of the project. The following were used:
+>
+> - OpenAI. (2025). ChatGPT [Large language model]. [https://chat.openai.com](https://chat.openai.com)
+> - GitHub. (2025). GitHub Copilot [AI coding assistant]. [https://github.com/features/copilot”](https://github.com/features/copilot”)
+
+----
+
+## 3.3 Final words
 
 We wish you all the best in this technical venture.
-Make the most of it!
+Make the most of it and we look forward to see what you will achieve!
 
 ----
 
